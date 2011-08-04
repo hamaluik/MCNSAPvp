@@ -1,0 +1,5 @@
+name: MCNSAPvp
+main: com.hamaluik.MCNSAPvp.MCNSAPvp
+version: 1.0.0
+author: FuzzyWuzzie
+depend: [Permissions]
